@@ -5,4 +5,4 @@ I am currently learning programming, and striving to major in Computer Science!
 * Programming applications for automating academics
 * Game design & Gaming
 * 3D Modelling
-* Shitposting
+* Sh#tposting
